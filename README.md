@@ -1,4 +1,3 @@
-# Stock-Analysis-with-AI-Agents
 
 # Stock Analysis with AI Agents
 
@@ -45,29 +44,6 @@ This project demonstrates how to leverage multiple AI agents for stock market an
 ### Supporting Files
 - **`temp_image.jpg`**: Temporary storage for uploaded chart images.
 - **`README.md`**: Documentation file (this document).
-
----
-
-## How to Run
-
-### Prerequisites
-1. **Python Environment**:
-   - Ensure Python 3.9+ is installed.
-2. **Dependencies**:
-   - Install required libraries using:
-     ```bash
-     pip install -r requirements.txt
-     ```
-3. **Environment Variables**:
-   - Create a `.env` file with your API keys (OpenAI, Groq, and others as needed).
-
-### Running the Application
-1. Navigate to the project directory.
-2. Run the Streamlit application:
-   ```bash
-   streamlit run Streamlit.py
-   ```
-3. Open the application in your web browser at `http://localhost:8501`.
 
 ---
 
