@@ -1,0 +1,4 @@
+python-dotenv~=1.0.1
+streamlit~=1.36.0
+Markdown~=3.5.2
+phidata
